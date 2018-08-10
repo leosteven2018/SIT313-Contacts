@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="contacts">Contacts</string>
+    <string name="name">Name:</string>
+    <string name="phone_num">Phone Number:</string>
+    <string name="email">Email Address:</string>
+    <string name="finish">Finish</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string-array name="array_p">
+        <item>Steven</item>
+        <item>David</item>
+        <item>Barry</item>
+        <item>Henry</item>
+        <item>Charlie</item>
+        <item>Zoe</item>
+        <item>Jack</item>
+        <item>Jessia</item>
+        <item>Hop</item>
+        <item>Alan</item>
+        <item>Alian</item>
+        <item>Kaolin</item>
+    </string-array>
+</resources>
