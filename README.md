@@ -13,4 +13,4 @@ Button is used to move to other page, also there were some textviews enable to w
   
 Week 5
 
-The application has run successful with a few features, by the way, it has the own icon.
+The application has run successful with a few features, by the way, it has the own icon and a list view was added into the main page to show the detail.
